@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@wireapp/core": "0.0.5",
+    "axios": "0.17.0",
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "cross-env": "5.1.1",
+    "dotenv": "4.0.0",
+    "gulp": "3.9.1",
+    "gulp-zip": "4.0.0"
+  },
+  "main": "index.js",
+  "name": "wire-web-bot-bitcoin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennyn/wire-web-bot-bitcoin.git"
+  },
+  "scripts": {
+    "dev": "cross-env NODE_ENV=test npm start",
+    "build": "gulp build",
+    "start": "node app.js"
+  },
+  "version": "1.0.0"
+}
