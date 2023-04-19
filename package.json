@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@wireapp/core": "0.0.5",
-    "axios": "0.17.0",
+    "axios": "0.21.2",
     "express": "4.16.2"
   },
   "devDependencies": {
