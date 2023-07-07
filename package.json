@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@wireapp/core": "0.0.5",
+    "@wireapp/core": "40.6.3",
     "axios": "0.17.0",
     "express": "4.16.2"
   },
